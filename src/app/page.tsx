@@ -101,7 +101,7 @@ export default function Home() {
            title="Resizable Iframe Content"
          /> */}
         <iframe
-           src="https://florify.plantsandflowersfoundationholland.org/en/occasion?floristName=Eemeli+Flowers&floristEmail=Eemeli%40email.com&floristPhone=06+2716+1234&floristAddress=Adelaarsweg+125-1&floristCity=Amsterdam&floristPostalCode=1022CB"
+           src="https://florify.plantsandflowersfoundationholland.org/en/occasion?floristName=Brink+Flowers&floristEmail=brink%40thebinkagency.com&floristPhone=06+2716+1234&floristAddress=Zekeringstraat+34-C&floristCity=Amsterdam&floristPostalCode=1014BS"
            className="w-full h-full border-0 block"
            title="Resizable Iframe Content"
          />
